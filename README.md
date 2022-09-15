@@ -1,5 +1,5 @@
 <div>
-  <p align="center">Olá,<br>meu nome é Yasmin, tenho 19 anos e estudo análise e desenvolvimento de sistemas na Fiap! <br> Seja bem-vindo ao meu perfil :) </h2>
+  <p align="center">Olá,<br> Seja bem-vindo ao meu perfil :) </h2>
 </div>
 
 <div align="center">
